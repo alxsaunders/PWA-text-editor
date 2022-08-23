@@ -23,7 +23,7 @@ This app is a simple text editor app that can be used, and is deployed to heroku
 
 # ScreenShots 
 
-![Screenshot]()
-![Screenshot](public/images/screenshot2.png)
+![Screenshot](/client/src/images/screenshot.png)
+![Screenshot](/client/src/images/screenshot2.png)
 
 
